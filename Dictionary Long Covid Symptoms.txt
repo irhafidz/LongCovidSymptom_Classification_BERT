@@ -1,0 +1,74 @@
+# Dictionary Long Covid Symptoms
+symptom_categories = {
+    "Blood Clotting Disorders": [
+        "Blood Clotting", "Blood Clots", "Thrombosis", "Pulmonary Embolism",
+        "Deep Vein Thrombosis", "Clotting Issues"
+    ],
+    "Smell Disorders": [
+        "Anosmia", "Parosmia", "Distorted Smell", "Smell Loss",
+        "Loss of Smell", "Altered Sense of Smell"
+    ],
+    "Cognitive Symptoms": [
+        "Brain Fog", "Cognitive Impairment", "Mental Fogginess", "Confusion",
+        "Lack of Focus", "Memory Problems"
+    ],
+    "Respiratory Symptoms": [
+        "Breathlessness", "Shortness of Breath", "Difficulty Breathing",
+        "Dyspnea", "Labored Breathing", "Trouble Breathing"
+    ],
+    "Chest Symptoms": [
+        "Chest Pain", "Chest Tightness", "Pressure in Chest",
+        "Discomfort in Chest", "Angina"
+    ],
+    "Cough": [
+        "Cough", "Persistent Cough", "Dry Cough", "Chronic Cough",
+        "Wet Cough", "Coughing"
+    ],
+    "General Symptoms": [
+        "Fatigue", "Exhaustion", "Tiredness", "Lack of Energy",
+        "Extreme Tiredness", "Weakness", "Feeling Drained"
+    ],
+    "Fever and Chills": [
+        "Fever", "High Temperature", "Chills", "Feverish"
+    ],
+    "Gastrointestinal Symptoms": [
+        "Gastrointestinal Problems", "Digestive Issues", "Stomach Problems",
+        "Diarrhea", "Nausea", "Vomiting", "Bloating", "Stomach Pain"
+    ],
+    "Headaches": [
+        "Headache", "Migraines", "Severe Headache", "Tension Headache",
+        "Throbbing Pain", "Head Pain"
+    ],
+    "Cardiac Symptoms": [
+        "Heart Problems", "Heart Issues", "Heart Palpitations",
+        "Irregular Heartbeat", "Chest Fluttering", "Cardiac Issues"
+    ],
+    "Musculoskeletal Symptoms": [
+        "Joint or Muscle Pain", "Muscle Aches", "Muscle Soreness",
+        "Joint Pain", "Body Aches", "Arthralgia", "Myalgia"
+    ],
+    "Mental Health Symptoms": [
+        "Mental Problems", "Depression", "Anxiety", "Mood Swings",
+        "Mental Health Issues", "Stress", "Panic Attacks", "Irritability"
+    ],
+    "Dermatological Symptoms": [
+        "Skin Rash", "Rashes", "Skin Irritation", "Hives",
+        "Dermatitis", "Itchy Skin"
+    ],
+    "Sleep Disorders": [
+        "Sleep Disorders", "Insomnia", "Trouble Sleeping",
+        "Disrupted Sleep", "Sleeplessness", "Difficulty Falling Asleep"
+    ],
+    "Throat Symptoms": [
+        "Sore Throat", "Throat Pain", "Throat Irritation",
+        "Scratchy Throat", "Swollen Throat"
+    ],
+    "Autoimmune and Inflammatory Conditions": [
+        "Autoimmune Conditions", "Autoimmune Issues", "Lupus",
+        "Rheumatoid Arthritis", "Inflammation Disorders", "Chronic Inflammation"
+    ],
+    "Post-Exertional Malaise (PEM)": [
+        "Post-exertional malaise (PEM)", "PEM", "Post-exertional Fatigue",
+        "Worsened Fatigue After Activity", "Post-Activity Exhaustion"
+    ],
+}
