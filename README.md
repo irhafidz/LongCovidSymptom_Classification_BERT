@@ -1,5 +1,5 @@
 # LongCovidSymptom_Classification_BERT
-Paper title: Early Detection of Long COVID Symptoms from Social Media Using BERT. Author: Alfado Rafly Hermawan, Irmasari Hafidz, Rahmah Yasinta Rangkuti, Effi Latiffianti, Nur Aini Rakhmawati (Institut Teknologi Sepuluh Nopember Surabaya, Indonesia). Publisher IEEE (on-progress)
+Paper title: Early Detection of Long COVID Symptoms from Social Media Using BERT. Author: Alfado Rafly Hermawan, Irmasari Hafidz, Rahmah Yasinta Rangkuti, Effi Latiffianti, Nur Aini Rakhmawati (Institut Teknologi Sepuluh Nopember Surabaya, Indonesia). _Publisher IEEE (on-progress)_
 
 Accepted and Presented at DASA 2024 **[https://dasa24.asu.edu.bh/conference-program/](https://dasa24.asu.edu.bh/conference-program/)** 1112 Dec 2024, Applied Science University, Abdulla Nass Auditorium, Kingdom of Bahrain (Hybrid). 
 
